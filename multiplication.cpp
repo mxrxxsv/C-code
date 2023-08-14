@@ -19,7 +19,7 @@ int main()
     }
     
     cout<<endl;
-    cout<<"Developed by: Cherrylou M. Esguerra BSIT 1-I"<<endl;
+    cout<<"Developed by: James Marius G. Santos BSIT 1-I"<<endl;
     
     return EXIT_SUCCESS;
 }
